@@ -1,1 +1,48 @@
-# To-Do-List
+# 📝 To-Do List Application
+
+A beginner-friendly and fully customizable **To-Do List Application** 🚀  
+This project helps users organize daily tasks efficiently while learning the basics of **programming, logic building, and GitHub project structure**.
+
+Whether you're a **student**, **beginner developer**, or someone learning **version control**, this project is a perfect starting point 🌱
+
+---
+
+## 📌 Project Overview
+
+The **To-Do List App** allows users to:
+- Create daily tasks 🗒️
+- Track progress ✅
+- Stay organized 📊
+- Improve productivity ⏳
+
+This project focuses on **simplicity, clean UI, and practical functionality**.
+
+---
+
+## ✨ Key Features
+
+✔️ Add new tasks quickly  
+✔️ Edit existing tasks  
+✔️ Delete completed or unwanted tasks  
+✔️ Mark tasks as completed  
+✔️ Visual indication of completed tasks  
+✔️ Data persistence (Local Storage / File Handling)  
+✔️ Beginner-friendly code structure  
+✔️ Responsive design for all devices 📱💻  
+
+---
+
+## 🛠️ Technologies & Tools Used
+
+| Technology | Purpose |
+|----------|---------|
+| 🧱 HTML | Structure of the app |
+| 🎨 CSS | Styling & layout |
+| ⚙️ JavaScript / 🐍 Python | Logic & functionality |
+| 🗃️ Local Storage | Save tasks |
+| 🌐 Browser | Run the application |
+
+---
+
+## 📂 Folder Structure
+
