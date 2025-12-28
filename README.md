@@ -23,7 +23,7 @@ This project focuses on **simplicity, clean UI, and practical functionality**.
 
 ✔️ Add new tasks quickly  
 ✔️ Edit existing tasks  
-✔️ Delete completed or unwanted tasks  
+✔️ Delete completed or unwanted tasks or debugs
 ✔️ Mark tasks as completed  
 ✔️ Visual indication of completed tasks  
 ✔️ Data persistence (Local Storage / File Handling)  
