@@ -10,7 +10,6 @@ This project helps users organize daily tasks efficiently and effectively while 
 The **To-Do List App** allows users to:
 - Create daily tasks 🗒️
 - Track progress ✅
-- Stay organized 📊
 - Improve productivity ⏳
 
 This project focuses on **simplicity, clean UI, and practical functionality**.
