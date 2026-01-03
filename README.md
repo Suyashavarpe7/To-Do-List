@@ -1,7 +1,7 @@
 # <h1>  📝To-Do List Application <h1/>
 
 A beginner-friendly and fully customizable **To-Do List Application** 🚀  
-This project helps users organize daily tasks efficiently and effectively while learning the basics of **programming, logic building, and GitHub project structure**.
+This project helps users organize daily tasks efficiently while learning the basics of **programming, logic building, and GitHub project structure**.
 
 ---
 
