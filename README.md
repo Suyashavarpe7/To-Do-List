@@ -41,4 +41,3 @@ This project focuses on **simplicity, clean UI, and practical functionality**.
 | 🌐 Browser | Run the application |
 
 ---
-##
