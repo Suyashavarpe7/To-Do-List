@@ -7,7 +7,7 @@ This project helps users organize daily tasks efficiently while learning the bas
 
 ## 📌 Project Overview
 
-The **To-Do List App** allows users to:
+The **To-Do List App** allows users to:-
 - Create daily tasks 🗒️
 - Track progress ✅
 - Stage organized
