@@ -1,4 +1,4 @@
-# <h1> 📝To-Do List Application <h1/>
+# <h2> 📝To-Do List Application <h2/>
 
 A beginner-friendly,fully customizable **To-Do List Application** 🚀
 
