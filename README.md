@@ -13,7 +13,7 @@ The **To-Do List App** allows users to:-
 - Stage organizing
 - Improve productivity ⏳
 
-This project focuses on **simplicity, clean UI, and practical functionality**.
+This project focuses on **simplicity, clean UI, practical functionality**.
 
 ---
 
