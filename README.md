@@ -2,6 +2,7 @@
 
 A beginner-friendly,fully customizable **To-Do List Application** 🚀
 This project helps users organize daily tasks efficiently while learning the basics of **programming,logical thinking, logic building, and GitHub project structure also**.
+
 ---
 
 ## 📌 Project Overview
@@ -22,7 +23,7 @@ This project focuses on **simplicity, clean UI, practical functionality**.
 ✔️ Edit existing tasks  
 ✔️ Delete completed or unwanted tasks or debugs
 ✔️ Mark tasks as completed  
-✔️ Visual indication of completed tasks  
+✔️ Visual indication of completed tasks and performance
 ✔️ Data persistence (Local Storage / File Handling)  
 ✔️ Beginner-friendly code structure  
 ✔️ Responsive design for all devices 📱💻  
