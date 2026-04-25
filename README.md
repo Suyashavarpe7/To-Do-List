@@ -41,5 +41,4 @@ This project focuses on **simplicity, clean UI, practical functionality**.
 | 🗃️ Local Storage | Save tasks |
 | 🌐 Browser | Run the application |
 
----
 
