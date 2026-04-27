@@ -14,7 +14,6 @@ The **To-Do List App** allows users to:-
 - Improve productivity ⏳
 
 This project focuses on **simplicity, clean UI, practical functionality**.
-
 ---
 
 ## ✨ Key Features
